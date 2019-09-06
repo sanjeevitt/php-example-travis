@@ -19,7 +19,6 @@ php:
   dist: precise
   # aliased to a recent 5.6.x version
   - 5.6
-  dist: precise
   # aliased to a recent 7.x version
   - 7.0
   # aliased to a recent hhvm version
